@@ -1,3 +1,15 @@
-# 알게된점 
+# 알게된점
+1. 반응형
+```
+@media screen and (max-width: 500px) {
+	.initial-box {
+		gap: 40px;
+	}
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+	.row {
+		padding: 0 40px;
+	}
+}
+```
+
+2. img드래그 드랍으로 추가
